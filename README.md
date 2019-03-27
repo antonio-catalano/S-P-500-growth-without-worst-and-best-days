@@ -1,0 +1,1 @@
+# S-P-500-growth-without-worst-and-best-days
